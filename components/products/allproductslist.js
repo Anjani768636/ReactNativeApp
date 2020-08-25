@@ -92,7 +92,7 @@ export default function ProductComponent({ navigation }) {
             border: "2px solid black",
             width: "155px",
             height:"50px",
-            marginLeft:"100px"
+            marginLeft:"101px"
           }}
         />
                 <TouchableOpacity style={styles.addbutton}
